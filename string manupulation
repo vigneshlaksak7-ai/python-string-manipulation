@@ -1,0 +1,5 @@
+url=["www.youtube.com","www.facebook.com","www.cricbuzz.com","www.instagram.com"]
+for i in url:
+    print(i)
+    for i in url:
+    print(i.replace("www.",''))
